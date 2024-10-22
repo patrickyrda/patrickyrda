@@ -24,16 +24,14 @@
 🟩 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white)  
 🟪 ![Flask](https://img.shields.io/badge/Flask-%23000000?logo=flask&logoColor=white)
 
-> Brief text about each technology, including what you've worked on, key projects, or how you use them.  
-> You can expand this section with specific frameworks, tools, and technologies you are familiar with.
-
 ---
 
 ## What I am currently working on:
 
-- **Project Name**: Brief description of what you are working on, for example:
+- Playlist Manager for spotify: 
   - Developing a **web application** that uses **Python** and **Flask** for backend development and integrates with **MySQL** for database management.
-  - Exploring **JavaScript** frameworks like **React** for an upcoming frontend project.
+  - Using **Spotify API**, for changing playlists on spotify and retreving data, and **Dash Plotly** for visualing.
+  - 
 
 ---
 
@@ -46,5 +44,5 @@
 
 ## More About Me:
 
-Feel free to explore my repositories and get to know the different projects I've been working on. I'm passionate about learning and contributing to innovative tech solutions.
+Feel free to explore my repositories and to contact me. 
 
