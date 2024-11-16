@@ -2,8 +2,6 @@
 
 # Hello, I am Patrick Yadav Rangel de Aguiar 👋
 
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-[YourUsername]-blue?logo=linkedin&logoColor=white)
-
 ## Dashboard
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrickyrda&show_icons=true&hide_title=true&count_private=true&hide=prs)
@@ -31,7 +29,6 @@
 - Playlist Manager for spotify: 
   - Developing a **web application** that uses **Python** and **Flask** for backend development and integrates with **MySQL** for database management.
   - Using **Spotify API**, for changing playlists on spotify and retreving data, and **Dash Plotly** for visualing.
-  - 
 
 ---
 
