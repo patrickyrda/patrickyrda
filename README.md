@@ -28,7 +28,7 @@
 
 - Playlist Manager for spotify: 
   - Developing a **web application** that uses **Python** and **Flask** for backend development and integrates with **MySQL** for database management.
-  - Using **Spotify API**, for changing playlists on spotify and retreving data, and **Dash Plotly** for visualing.
+  - Using **Spotify API**, for changing playlists on spotify and retreving data
 
 ---
 
